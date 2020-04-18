@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567736867 source:c:\users\compumar\desktop\trabajos practicos\trabajo practico\main.c
+	"maths.h"
+	<stdlib.h>
+
+1567736867 c:\users\compumar\desktop\trabajos practicos\trabajo practico\maths.h
+	<stdio.h>
+
+1567737369 source:c:\users\compumar\desktop\trabajos practicos\trabajo practico\maths.c
+	"maths.h"
+
